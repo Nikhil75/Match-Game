@@ -1,0 +1,13 @@
+.tab-name {
+  font-size: 30px;
+  margin-top: 20px;
+  color: white;
+  background-color: transparent;
+}
+button {
+  cursor: pointer;
+  border-width: 0px;
+}
+li {
+  list-style: none;
+}

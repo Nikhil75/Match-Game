@@ -1,0 +1,10 @@
+.thumbnail {
+  height: 10vh;
+  width: 120px;
+  margin-left: 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+li {
+  list-style: none;
+}
